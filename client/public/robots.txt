@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riteshpandey.vercel.app/sitemap.xml
