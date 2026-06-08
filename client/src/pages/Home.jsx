@@ -54,7 +54,7 @@ const Home = () => {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center px-4 mt-7 sm:mt-0 md:mt-6 lg:mt-8">
+    <div className="min-h-screen flex items-center justify-center px-4 pt-24 md:pt-28 lg:pt-32">
       <div className="text-center relative z-10 max-w-4xl mx-auto">
         <motion.h1
           className="text-4xl sm:text-6xl md:text-8xl font-bold mb-4 sm:mb-6 relative tracking-tighter"
