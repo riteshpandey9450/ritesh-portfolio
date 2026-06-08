@@ -64,7 +64,7 @@ const About = () => {
         <ScrollAnimation className="space-y-6">
           <div className="space-y-4">
             <p className="text-gray-300 leading-relaxed">
-              Hi! I'm Ritesh Pandey — a passionate full-stack developer and
+              Hi! I'm Ritesh Pandey - a passionate full-stack developer and
               competitive programmer pursuing B.Tech in Computer Science at
               MMMUT Gorakhpur. I thrive at the intersection of scalable
               engineering and elegant problem-solving.
