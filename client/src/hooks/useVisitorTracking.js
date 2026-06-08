@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
 const API_URL = import.meta.env.VITE_TRACKER_API_URL;
-
+console.log("TRACKER_API_URL =", API_URL);
 const isNewSession = () => {
   if (sessionStorage.getItem("site_session")) return false;
   sessionStorage.setItem("site_session", "1");
