@@ -14,7 +14,7 @@ export const useVisitorTracking = () => {
 
   useEffect(() => {
     if (!API_URL) return;
-    fetch(`${API_URL}/visitors/track`, {
+    fetch(`${API_URL}/visitors/heartbeat`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
