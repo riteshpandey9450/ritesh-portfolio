@@ -101,16 +101,6 @@ const skills = [
     ],
   },
   {
-    category: "Methodologies",
-    icon: <Wrench className="w-6 h-6" />,
-    items: [
-      { name: "Agile/Scrum", icon: <Wrench className="w-4 h-4" /> },
-      { name: "CI/CD", icon: <GitBranch className="w-4 h-4" /> },
-      { name: "Unit Testing", icon: <Wrench className="w-4 h-4" /> },
-      { name: "System Design", icon: <Layout className="w-4 h-4" /> },
-    ],
-  },
-  {
     category: "Soft Skills",
     icon: <Users className="w-6 h-6" />,
     items: [
