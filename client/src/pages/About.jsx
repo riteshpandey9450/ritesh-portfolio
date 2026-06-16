@@ -77,8 +77,8 @@ const About = () => {
             </p>
             <p className="text-gray-300 leading-relaxed">
               I specialize in the MERN stack and have built production-grade
-              platforms like SoulCare (AI mental health), Society HomeChef (food
-              delivery application), and QuizCraft (Assessment platform). I also serve as DSA Head at MMMUT
+              platforms like SoulCare (AI-Powered Mental Health Application), Society HomeChef (real-time food
+              delivery application) and QuizCraft (Full-Stack Assessment platform). I also serve as DSA Head at MMMUT
               Resources, mentoring 200+ students.
             </p>
           </div>
