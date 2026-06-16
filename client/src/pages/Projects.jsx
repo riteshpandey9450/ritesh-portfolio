@@ -24,7 +24,7 @@ const projects = [
     id: 2,
     title: "SoulCare",
     description:
-      "Secure AI-powered mental health platform with real-time anonymous messaging via WebSocket integration. Built a RAG pipeline using ML models for context-aware wellness resources, and used Supabase for distributed backend with 500+ users.",
+      "Secure AI-powered mental health platform with real-time anonymous messaging via WebSocket integration. Built a RAG pipeline using ML models for context-aware wellness resources, and used Supabase for distributed backend.",
     image: project2,
     github: "https://github.com/riteshpandey9450/SoulCare",
     live: "https://soulcare-nar5.onrender.com/",
