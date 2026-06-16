@@ -10,7 +10,7 @@ const achievements = [
     date: "2025",
     link: "https://drive.google.com/file/d/1F1awhPxVcK-4UgmIc3xN7e5xUF49DP05/view",
     description:
-      "Qualified for both Amritapuri & Chennai Regionals. Achieved Rank 81 at Chennai Regional and Rank 180 at Amritapuri Regional.",
+      "Qualified for both Amritapuri & Chennai Regionals. Achieved Rank 81 at Chennai Regional and Rank 284 at Amritapuri Regional.",
     skills: ["Competitive Programming", "Team Algorithms", "Problem Solving"],
     highlight: true,
   },
